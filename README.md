@@ -1,4 +1,4 @@
 # Signature-Cuisine
 <center>
-  <img src="BLOOMROOM.png" alt="Bloom Room">
+  <img src="SignatureCuisine.png" alt="SignatureCuisine">
 </center>
